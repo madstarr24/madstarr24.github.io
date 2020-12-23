@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";",
-		".current {\r\n    color: green;\r\n}"
+		".current {\r\n    color: green;\r\n}\r\n\r\n.header {\r\n    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\r\n    background-color: lightblue;\r\n}\r\n\r\nnav {\r\n    border: 2px solid lightblue;\r\n    border-radius: 5px;\r\n}\r\n\r\nh1 {\r\n    text-align: center;\r\n}\r\n\r\nh3 {\r\n    text-indent: 10%;\r\n}\r\n\r\nh4 {\r\n    text-indent: 15%;\r\n}\r\n\r\nul, dl, ol {\r\n    margin-left: 20%;\r\n}\r\n\r\n\r\n"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACf"
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACf;;AAED,AAAA,OAAO,CAAC,EACJ,WAAW,EAAE,+CAA+C,EAC5D,gBAAgB,EAAE,SAAS,GAC9B;;AAED,AAAA,GAAG,CAAC,EACA,MAAM,EAAE,mBAAmB,EAC3B,aAAa,EAAE,GAAG,GACrB;;AAED,AAAA,EAAE,CAAC,EACC,UAAU,EAAE,MAAM,GACrB;;AAED,AAAA,EAAE,CAAC,EACC,WAAW,EAAE,GAAG,GACnB;;AAED,AAAA,EAAE,CAAC,EACC,WAAW,EAAE,GAAG,GACnB;;AAED,AAAA,EAAE,EAAE,EAAE,EAAE,EAAE,CAAC,EACP,WAAW,EAAE,GAAG,GACnB"
 }
