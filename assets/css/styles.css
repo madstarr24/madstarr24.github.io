@@ -1,0 +1,15 @@
+.current { color: green; }
+
+.header { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: lightblue; }
+
+nav { border: 2px solid lightblue; border-radius: 5px; }
+
+h1 { text-align: center; }
+
+h3 { text-indent: 10%; }
+
+h4 { text-indent: 15%; }
+
+ul, dl, ol { margin-left: 20%; }
+
+/*# sourceMappingURL=styles.css.map */

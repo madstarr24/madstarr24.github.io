@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		".current {\n    color: green;\n}\n\n.header {\n    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n    background-color: lightblue;\n}\n\nnav {\n    border: 2px solid lightblue;\n    border-radius: 5px;\n}\n\nh1 {\n    text-align: center;\n}\n\nh3 {\n    text-indent: 10%;\n}\n\nh4 {\n    text-indent: 15%;\n}\n\nul, dl, ol {\n    margin-left: 20%;\n}\n\n\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACf;;AAED,AAAA,OAAO,CAAC,EACJ,WAAW,EAAE,+CAA+C,EAC5D,gBAAgB,EAAE,SAAS,GAC9B;;AAED,AAAA,GAAG,CAAC,EACA,MAAM,EAAE,mBAAmB,EAC3B,aAAa,EAAE,GAAG,GACrB;;AAED,AAAA,EAAE,CAAC,EACC,UAAU,EAAE,MAAM,GACrB;;AAED,AAAA,EAAE,CAAC,EACC,WAAW,EAAE,GAAG,GACnB;;AAED,AAAA,EAAE,CAAC,EACC,WAAW,EAAE,GAAG,GACnB;;AAED,AAAA,EAAE,EAAE,EAAE,EAAE,EAAE,CAAC,EACP,WAAW,EAAE,GAAG,GACnB"
+}
